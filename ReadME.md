@@ -1,10 +1,32 @@
 ### front-end Technologies
-    - HTML
+ - HTML
     - CSS
     - JavaScript
     - Bootstrap framework
     - Angular
     - ReactJS
+### Back-End Technologies
+- node.js
+       - express.js
+       - nodemoon
+       - cors
+       - dotenv
+    - PHP
+    - c++
+    - Java
+    - Python
+### DataBases
+- MongoDb
+- mMysql
+- SQLite
+- Firebase
+- Postgressql(Java)
+- Oracle
+- Version Control System(VCS) or Source Code Management
+  - Distributed VCS(Git,Mercurical)
+  - Remote VCS or Central VCS(Github,Bitbucket)
+
+  
 ###  HTML
 
   - HYPER TEXT MARKUP LANGUAGE
