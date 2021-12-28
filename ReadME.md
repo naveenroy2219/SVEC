@@ -108,8 +108,39 @@ selector {
 + Margin
 + Border
 + Padding
+   - padding :10px(for all adjacent sides)
+   - padding :10px(10px for top & bottom;30px for left &right)
+   - padding :10px 300px 50px(10px for top;300px for left & right;50px for bottom)
+   - padding :10px 30px 40px 50px(top,right,bottom,left)
 + Width
-+ 
+- 1rem:16px
+
+#### Flex-box
+
++ display
+  - none
+  - inline
+  - block
+  - inline-block
+  
++position 
+   - static
+   - relative
+   - obsolute
+   - fixed
+   -sticky
++ align-content
++ align-items
++ align-self
+
+
+
+Task:2
+=====
+- Index.html
+- Register.html
+- Login.html
+
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
 - [Free SVG](https://freesvg.org/)
