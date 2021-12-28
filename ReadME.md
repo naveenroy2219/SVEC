@@ -58,6 +58,32 @@
        - sub
        - unorder list
        - order list
+Task :
+=====
+- Audio
+- Video
+- canvas
+- progress
+- datalist
+- meter
+- select
+
+### CSS
+
++ Cascading Style Sheets
++ Types of CSS
+  - Inline CSS
+  - Internal CSS
+  - External CSS
+
++Syntax of CSS
+
+---
+selector {
+     css properties
+}
+
+---
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
 - 
