@@ -101,7 +101,17 @@ selector {
 + Pseudo class selector
 + Pseudo element selector
 + Attribute selector
+
+
+#### Box Mode
+
++ Margin
++ Border
++ Padding
++ Width
++ 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
+- [Free SVG](https://freesvg.org/)
 - [Colour Code](https://htmlcolorcodes.com/)
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
