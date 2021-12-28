@@ -84,6 +84,24 @@ selector {
 }
 
 ---
+
+#### SELECTORS
++ Simple Selectors
+     - Universal selector
+     - By Element Name
+     - Grouping selector(,)
+     - Class selector
+     - Id selector
+
++ Combinators
+     + Descendent selector( )
+     + Child selector(>)
+     + Adjacent sibling selector(+)
+     + General sibling selector(~)
++ Pseudo class selector
++ Pseudo element selector
++ Attribute selector
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
-- 
+- [Colour Code](https://htmlcolorcodes.com/)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
