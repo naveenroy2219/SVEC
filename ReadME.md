@@ -122,7 +122,7 @@ selector {
   - inline
   - block
   - inline-block
-  
+
 +position 
    - static
    - relative
@@ -133,6 +133,15 @@ selector {
 + align-items
 + align-self
 
+### Responsive Web Design
+### Flex-Box
+
+- display
+   - flex
+       - flex-wrap
+       - justify-content
+       - flex-direction
+       - flex-flow
 
 
 Task:2
