@@ -133,6 +133,9 @@ selector {
 + align-items
 + align-self
 
+### Animations
+
+
 ### Responsive Web Design
 ### Flex-Box
 
@@ -149,6 +152,49 @@ Task:2
 - Index.html
 - Register.html
 - Login.html
+
+
+### Media Quries
+
+- Extra Small Devices(Mobiles)
+     - max-width:600px
+- Small Devices(Large phones)
+     - min-width:600px
+     -  768px
+- Medium Devices(Small Laptops)
+     - min-width:768px
+- Large Devices(Desktops or large laptops)
+     - min-width:992px
+- Extra Large Devices()
+     - min-width:1200px
+
+
+---
+@media on screen (min-width:320px) and
+(max-width:500px){
+     CSS Code
+}---
+
+### Bootstrap 4.6
+
+- It is a CSS framework
+
+
+Task3:
+====
+   - Navbar with responsive
+
+- module(collection of functions and classes)
+- package(collection of modules)
+- library(collection of packages)
+- frameworks(collection of library
+ + module ---> Package --> Library ---> Framework
+
+ + Types of Mode
+  - offline
+  - online
+     - CDN links
+====
 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
