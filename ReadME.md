@@ -261,8 +261,8 @@ Task3:
     - Scope
        - function level  -->  var
        - block level  -->  let & const
-    - Redefine  -->  
-    - Redeclare
+    - Redefine  -->  var,let
+    - Redeclare  -->  var
 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
