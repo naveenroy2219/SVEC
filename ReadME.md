@@ -194,7 +194,75 @@ Task3:
   - offline
   - online
      - CDN links
-====
++ background-colour - bg
++ text-white
+
++ Margin in Bootstrap(m-* (0.5))
+  - 0 --> 0rem
+  - 1 -->0.25rem(4px)
+  - 2 --> 0.5rem(8px)
+  - 3 --> 1rem(16px)
+  - 4 --> 1.5rem(24px)
+  - 5 --> 3rem(48px)
+  - m(margin in all directions)
+  - ml-5 (margin-left)
+  - mt(margin-top)
+  - mb (margin-bottom)
+  - mr (margin-right)
++ Padding (Padding-left --> p1-5)
++ colors
+   -primary
+   - secondary
+   - info
+   - success
+   - warning
+   - danger
+   - light
+   - dark
+   - white
++ We can use color classes for 
+   - Buttons (btn btn-primary)
+   - text (text-white)
+   - background (bg-secondary)
+   - alerts (alert alert-primary)
+
++ Grid System
+     -  col-sm-12
+     - sm (small devices)
+     - md (medium devices)
+     - lg (large devices)
+     - xl (extra large devices)
++ Modal
++ Table
+
+
+### JavaScript
+
++ In 1995 "Brenden Eich" introduced JavaScript (ES-262)
++ JavaScript is loosely toupled and dynamic language
++ It is a text based programming language and we can use in client-side and server-side for dynamic web    application
+- ECMA Script (ES-6)
+    - let & const
+    - map()
+    - arrow function
+    - classes
++Datatypes
+  - Number
+  - BigInt (2^53-1)
+  - String
+  - Boolean
+  - Undefine
+  - Null
+  - Object
+  - Array
+
++ Variables
+    - var,let & const
+    - Scope
+       - function level  -->  var
+       - block level  -->  let & const
+    - Redefine  -->  
+    - Redeclare
 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
