@@ -246,6 +246,8 @@ Task3:
     - map()
     - arrow function
     - classes
+    - spread operator
+    - rest parameter
 +Datatypes
   - Number
   - BigInt (2^53-1)
@@ -263,6 +265,116 @@ Task3:
        - block level  -->  let & const
     - Redefine  -->  var,let
     - Redeclare  -->  var
++ 'typesof()'
++Object
+
+---
+{
+     name:"Naveen"
+}
+---
++ Array
+
+### Alerts
+
++ To generate notifications
+   - alert
+   - prompt(to take input from the user)
+   - confirm
+
++ console statements
+    - console.log()
+    - console.info()
+    - console.warn()
+    - console.error()
+
+
++ spread operator
+ ---
+   ---variableName
+   
+---
+- rest parameter
+  - to handle function parameter
+  ---
+
+  ---parameter
+
+  ---
+
+  + Destructing of Arrays & Objects
+
+  + Functions
+
+  - function with functionname
+  ---
+  function demo(x,y){
+       return x+y
+  }
+  demo()
+  ---
+  - Anonymous function
+  ---
+  let demo= function (x,y)
+  {
+       return x+y
+  }
+  ---
+
+  - Arrow function
+  ---
+  let demo= (x,y) => {
+       return x*y
+  }
+  demo (3,4)
+  ---
+
+
+  + for-in
+    - To get index values of an array
+  + for-of
+     - To get elements in an array
+
+  + forEach() --> (ES-5)
+  +map() --> (ES-6)
+
+### DOM
+
+   - Document Object Model
+   - document
+   - history
+   - window
+   - navigator
+
++ DOM methods
+  - 'getElementById()'
+  - getElementByClassName()
+  - querySelector()
+  - innerText
+  - textContent
+  - append
+  - appendChild
+  - innerHTML
+  - setAttribte()
+  - classList
+  - style
+  - src
+
+### JSON
++ JavaScript Object Notation
+    - To exchange information between application and server
+
+---
+{
+     "name":"Naveen Roy Chintala",
+     "salary":"6.5LPA:,
+     "Designatton":"MERN Developer",
+     "mobile":9398216345
+}
+ ---
++ Ajax call or peomises (fetch API) or axios
+
+
 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
