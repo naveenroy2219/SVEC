@@ -375,6 +375,50 @@ Task3:
 + Ajax call or peomises (fetch API) or axios
 
 
+### ReactJS
+
+##### ReactJS Features
+
++ It is a library
++ It follows component based Architecture
+    - Functional Component
+    - Class Component
+    - Pure Component
+    - Higher Order Component
++ It provides Virtual DOM
++ It provides JSX (JavaScript and XML)
++ Unidirectional data flow
++ Single page applications
+
++ Project Environment setup 
+    - [DownloadVisualStudioCode](https://code.visualstudio.com/download)
+    - [DownloadNodejs](https://nodejs.org/en/download/)
+    - install nodejs and check versions of 'node' and 'npm'
+         - 'node -v'
+         - 'npm -v'
+     - 'webpack' and 'babel'
+     - 'create-react-app'
+         - 'npm(node package manager) install create-react-app'
+              - 'create-react-app projectname'
+     - 'npx(node package runner) create-react-app appname'
+
++ Index.html
++ index.js
++ App.js
+     + IndexPage
+     - nav.js
+     - body.js
+     - footer.js
+
+
+          + Home.js
+               - nav
+               - body
+               - footer
+          + Login.js
+          + Register
+          + About
+          + contact 
 
 ##### REFERENCE LINKS
 - [Flaticon](https://www.flaticon.com/)
