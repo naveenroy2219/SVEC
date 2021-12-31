@@ -390,6 +390,33 @@ Task3:
 + Unidirectional data flow
 + Single page applications
 
+
+
++ Props
+
+   - To pass data from one component to another component we will use Props
+   - Props are immutable
+
+   + UnionBank (Functional)
+       - AndhraBank (Functional)
+       - Corporation (Class)
+
++ States
+
+- In react to maintain information we will use States
+- We can maintain states in class component only (Before react16.8 version)
+- To take state in react, Try to create constructor above render method and inside of class component
+- use 'rconst' snippet
+----
+constructor(){
+     super();
+     this.state={
+
+     }
+}
+ ---
+ - To update the state information in class component use 'setState()' method
+
 + Project Environment setup 
     - [DownloadVisualStudioCode](https://code.visualstudio.com/download)
     - [DownloadNodejs](https://nodejs.org/en/download/)
